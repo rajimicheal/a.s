@@ -1,0 +1,52 @@
+h3{
+    color:green;
+}
+h2{
+    border-left: 2px solid salmon;
+}
+p.Xio{
+    border: 1px solid salmon;
+    border-radius: 5px;
+}
+h1.vio{
+    border: 2px solid red;
+    border-top-right-radius: 10px ;
+}
+p.oi{
+    margin-top: 100px;
+}
+ol li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: green;
+}
+li{
+   align-items: center;
+    padding: 25px;
+    list-style-type: none;
+    display: inline-block;
+}
+ ol{
+display: flex;
+justify-content: center;
+
+ }
+
+ .prac{
+
+
+    background-image: url("chelsea.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+
+
+
+ }
+ .any{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: 700;
+ }
